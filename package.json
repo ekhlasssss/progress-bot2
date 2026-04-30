@@ -1,0 +1,16 @@
+{
+  "name": "progress-bot",
+  "version": "3.0.0",
+  "description": "Discord Progress Tracking Bot with AI Verification",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
